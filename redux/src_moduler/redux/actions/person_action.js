@@ -1,0 +1,1 @@
+export const increment=({name,id})=>({type:'increment',data:{name,id}})
